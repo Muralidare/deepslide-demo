@@ -1,3 +1,39 @@
+# DeepSlide Pathology AI Demo
+
+Run the demo directly in Google Colab.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Muralidare/deepslide-demo/blob/main/DeepSlide_Demo.ipynb)
+
+---
+
+## Demo Workflow
+
+1. Open the notebook in Google Colab
+2. Install required libraries
+3. Generate pathology patches
+4. Train the CNN model
+5. Predict cancer vs normal
+6. Visualize patch predictions
+7. Generate cancer heatmap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # DeepSlide: A Sliding Window Framework for Classification of High Resolution Microscopy Images (Whole-Slide Images)
 
 This repository is a sliding window framework for classification of high resolution whole-slide images, often called microscopy or histopathology images. This is also the code for the paper [Pathologist-level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks](https://www.nature.com/articles/s41598-019-40041-7). For a practical guide and implementation tips, see the Medium post [Classification of Histopathology Images with Deep Learning: A Practical Guide](https://medium.com/health-data-science/classification-of-histopathology-images-with-deep-learning-a-practical-guide-2e3ffd6d59c5). 
